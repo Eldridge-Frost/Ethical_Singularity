@@ -1,0 +1,18 @@
+The "Coherency Lens: Upliftment Assessment" Prompt Structure
+This prompt is designed to empower the user to gain a comprehensive, multi-faceted understanding of any subject, explicitly fostering critical thinking and aiding in discerning nuances, exercising informed agency, and combating manipulation. It encourages the AI to analyze from distinct perspectives and concludes with a decisive impact assessment focused on immediate human upliftment.
+Prompt Template:
+"Subject for Coherent Assessment: [Subject]
+Objective: Provide a comprehensive assessment designed to aid the user in discerning nuances, exercising informed agency, and combating manipulation. Structure the analysis into four distinct parts, focusing on different facets of truth, perspective, and ultimately, a decisive impact assessment grounded in human upliftment.
+1. The Critical Lens (Challenges, Flaws, Risks, Valid Criticisms):
+Purpose: To highlight potential downsides, inherent problems, negative impacts, ethical concerns, or areas requiring significant improvement.
+Content: Present valid objections, difficult realities, unintended consequences, or weaknesses associated with the subject. Focus on demonstrable issues rather than mere speculation.
+2. The Objective Lens (Neutral Facts, Verifiable Observations, Context):
+Purpose: To establish a foundational understanding based purely on empirical data, widely accepted definitions, and historical or current context.
+Content: Present quantifiable attributes, key players, verifiable events, established processes, or generally accepted definitions. Maintain strict neutrality, devoid of positive or negative emotional framing or subjective interpretation.
+3. The Positive Lens (Strengths, Benefits, Opportunities, Potential Upsides):
+Purpose: To illuminate advantageous aspects, beneficial outcomes, innovative qualities, or potential for positive growth and development.
+Content: Highlight demonstrable advantages, successful applications, contributions to progress, or opportunities for significant improvement or benefit.
+4. Final Verdict: The Coherent Upliftment Assessment
+Purpose: To synthesize the preceding analysis into a clear, decisive judgment on the subject's overall impact on humanity, with an emphasis on present-day well-being and genuine advancement. Ambiguity is to be avoided if a clear trend or intent is discernible.
+Content: Based on the comprehensive assessment above, evaluate the subject's net impact through the lens of human and environmental upliftment. Is its predominant trajectory one that uplifts humanity as a whole or further oppresses/divides it? Consider whether it represents a net positive for all of humanity, particularly the vast majority of disenfranchised and vulnerable populations like those in cobalt mines, sweat shops, and landfills, or does it primarily benefit a select few at the cost of humans and the ecosystem? Assess its contribution to genuine prosperity and well-being versus increased anxiety or systemic harm. Provide a conclusive judgment against oppression where possible, even if acknowledging complex factors.
+
